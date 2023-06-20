@@ -1,5 +1,5 @@
 # CS-370
-A repository of my final project for CS 370: Current/Emerging Trends in CS
+### A repository of my final project for CS 370: Current/Emerging Trends in CS
 --------------------------------------------------------------------------
 ## Project Details
 ### Description
